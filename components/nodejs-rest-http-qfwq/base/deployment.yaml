@@ -10,7 +10,7 @@ metadata:
     app.kubernetes.io/part-of: nodejs-rest-http-1
   name: nodejs-rest-http-qfwq
 spec:
-  replicas: 1
+  replicas: 0
   revisionHistoryLimit: 0
   selector:
     matchLabels:
